@@ -1,1 +1,1 @@
-# paint-with-touch2
+# paint-with-touch
